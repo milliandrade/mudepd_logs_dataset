@@ -1,0 +1,18 @@
+#PROJECT_NAME= MUDE
+#TRANSMISSION_RANGE= 20
+#N= 4
+#K= 50
+#T= 900
+#K_GROUP= 10
+#AREA= 300
+#V_UAV= 10
+#V_SENSOR= 5
+#SIMULATION_START_TIME= 0
+#SIMULATION_FINISH_TIME= 900.0000000001361
+#SIMULATION_SPEED= 900.0000000001361
+#SCANNING_TYPE= ScanningType.ZIGZAG_LMAT
+id,initial_time,final_time,sensor_speed,sensors_found,sensor_list,sensor_detection,change_route,messages_total,messages_received,messages_sent,messages_consensus,message_request,message_response,message_ping,message_group_sensor_detection,message_sensor_detection_ack,message_sensor_detection_nack,message_route_change,message_route_change_ack,message_route_change_nack,message_route_change_decided
+1,0,900.0000000001361,900.0000000001361,11,"[24, 51, 44, 18, 23, 53, 5, 14, 31, 6, 42]",140,3,10515,778,9734,13,0,500,9997,0,15,0,0,0,0,0,0
+2,0,900.0000000001361,900.0000000001361,11,"[24, 51, 44, 18, 23, 53, 5, 14, 31, 6, 42]",0,0,1865,66,1799,0,0,57,1808,0,0,0,0,0,0,0,0
+3,0,900.0000000001361,900.0000000001361,11,"[24, 51, 44, 18, 23, 53, 5, 14, 31, 6, 42]",121,5,17210,765,16440,21,0,551,16633,0,21,0,0,0,0,0,0
+4,0,900.0000000001361,900.0000000001361,11,"[24, 51, 44, 18, 23, 53, 5, 14, 31, 6, 42]",0,0,1942,82,1860,0,0,72,1870,0,0,0,0,0,0,0,0

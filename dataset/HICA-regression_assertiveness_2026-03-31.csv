@@ -1,0 +1,28 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:          assertiveness   R-squared:                       0.036
+Model:                            OLS   Adj. R-squared:                  0.036
+Method:                 Least Squares   F-statistic:                     66.46
+Date:                ter, 31 mar 2026   Prob (F-statistic):           2.81e-55
+Time:                        18:54:33   Log-Likelihood:                -28685.
+No. Observations:                7034   AIC:                         5.738e+04
+Df Residuals:                    7029   BIC:                         5.742e+04
+Df Model:                           4                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept     90.3918      0.313    288.897      0.000      89.778      91.005
+n              0.0940      0.009     10.939      0.000       0.077       0.111
+k             -0.0474      0.008     -5.870      0.000      -0.063      -0.032
+density        1.4437      0.175      8.240      0.000       1.100       1.787
+c_rate       -26.9703      2.490    -10.830      0.000     -31.852     -22.089
+==============================================================================
+Omnibus:                     4500.693   Durbin-Watson:                   1.105
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            48911.931
+Skew:                          -2.996   Prob(JB):                         0.00
+Kurtosis:                      14.445   Cond. No.                         804.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

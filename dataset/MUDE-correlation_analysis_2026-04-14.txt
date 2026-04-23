@@ -1,0 +1,9 @@
+=== Pearson Correlation ===
+                  assertiveness  mission_duration
+assertiveness          1.000000         -0.353997
+mission_duration      -0.353997          1.000000
+
+=== Spearman Correlation ===
+                  assertiveness  mission_duration
+assertiveness          1.000000         -0.523499
+mission_duration      -0.523499          1.000000
